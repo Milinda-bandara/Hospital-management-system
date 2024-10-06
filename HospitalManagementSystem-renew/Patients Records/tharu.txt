@@ -1,0 +1,12 @@
+Address: haj
+Age: 22
+Comments: hdjdkss
+Disease: gdhjss
+Gender: Male
+Name: tharu
+PatientID: PID8409
+PhoneNo: 739089781
+Price: 
+RegDate: 2024/03/04
+RoomNumber: Select Room
+RoomType: Normal

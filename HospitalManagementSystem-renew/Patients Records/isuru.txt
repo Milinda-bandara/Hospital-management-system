@@ -1,0 +1,12 @@
+Address: polonnaruwa
+Age: 22
+Comments: hdjdy jsjsk jssk
+Disease: hisjs
+Gender: Male
+Name: isuru
+PatientID: PID9064
+PhoneNo: 987838982
+Price: Rs.21,000
+RegDate: 2024/03/04
+RoomNumber: 1
+RoomType: Medium

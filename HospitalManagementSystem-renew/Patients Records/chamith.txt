@@ -1,0 +1,12 @@
+Address: mahaiyawa
+Age: 20
+Comments: ghdjsk
+Disease: djsks
+Gender: Male
+Name: chamith
+PatientID: PID2025
+PhoneNo: 987387673
+Price: 
+RegDate: 2024/03/04
+RoomNumber: Select Room
+RoomType: Normal
